@@ -1,0 +1,15 @@
+{
+    "name": "secondtruth/startmin",
+    "description": "Admin dashboard project using Bootstrap framework",
+    "homepage": "",
+    "keywords": ["backend", "admin", "template", "theme", "web"],
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "",
+            "email": "",
+            "homepage": "",
+            "role": ""
+        }
+    ]
+}
